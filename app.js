@@ -17,5 +17,3 @@ btn.addEventListener("click", () => {
         
     });
 });
-{/* <h1 id="city"></h1>
-         <h2 id="temperature"></h2> */}
